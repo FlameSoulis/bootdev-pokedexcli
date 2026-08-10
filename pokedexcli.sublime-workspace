@@ -1,0 +1,731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"new_ascii"
+			],
+			[
+				"new",
+				"new_ascii_handle"
+			],
+			[
+				"le",
+				"letter_index"
+			],
+			[
+				"asc",
+				"new_ascii"
+			],
+			[
+				"mask",
+				"mask_lines"
+			],
+			[
+				"sou",
+				"source_lines"
+			],
+			[
+				"mask_",
+				"mask_data"
+			],
+			[
+				"can",
+				"candidate"
+			],
+			[
+				"func",
+				"function_args"
+			],
+			[
+				"fun",
+				"function_call_part"
+			],
+			[
+				"r",
+				"run_python_file"
+			],
+			[
+				"get",
+				"get_file_content"
+			],
+			[
+				"get_file",
+				"get_file_content"
+			],
+			[
+				"re",
+				"return_string"
+			],
+			[
+				"real",
+				"real_working_path"
+			],
+			[
+				"return_",
+				"return_array"
+			],
+			[
+				"retu",
+				"return_string"
+			],
+			[
+				"list",
+				"list_of_dir"
+			],
+			[
+				"file",
+				"file_data"
+			],
+			[
+				"x",
+				"__x1"
+			],
+			[
+				"des",
+				"dest_file_path"
+			],
+			[
+				"genera",
+				"generate_pages_recursive"
+			],
+			[
+				"dir",
+				"dir_path_content"
+			],
+			[
+				"dest",
+				"dest_folder"
+			],
+			[
+				"d",
+				"dest_path"
+			],
+			[
+				"text",
+				"text_node"
+			],
+			[
+				"html",
+				"html_page"
+			],
+			[
+				"mark",
+				"markdown_html"
+			],
+			[
+				"templ",
+				"template_contents"
+			],
+			[
+				"markdown_",
+				"markdown_to_html_node"
+			],
+			[
+				"temp",
+				"template_file"
+			],
+			[
+				"tem",
+				"template_file"
+			],
+			[
+				"spli",
+				"split_check"
+			],
+			[
+				"sp",
+				"split_check"
+			],
+			[
+				"de",
+				"desitnatin_path"
+			],
+			[
+				"t",
+				"to_html"
+			],
+			[
+				"tex",
+				"text_nodes"
+			],
+			[
+				"leaf",
+				"leaf_nodes"
+			],
+			[
+				"s",
+				"startswith"
+			],
+			[
+				"u",
+				"UNORDERED_LIST"
+			],
+			[
+				"Block",
+				"BlockType"
+			],
+			[
+				"b",
+				"block_type"
+			],
+			[
+				"bl",
+				"block_type"
+			],
+			[
+				"typ",
+				"block_type"
+			],
+			[
+				"blo",
+				"block_type"
+			],
+			[
+				"orig",
+				"original_node"
+			],
+			[
+				"im",
+				"image_url"
+			],
+			[
+				"TEx",
+				"TextType"
+			],
+			[
+				"del",
+				"delimiter_next_pos"
+			],
+			[
+				"T",
+				"TextType"
+			],
+			[
+				"prop",
+				"props_to_html"
+			],
+			[
+				"te",
+				"text_type"
+			],
+			[
+				"sh",
+				"shoot"
+			],
+			[
+				"aster",
+				"asteroids"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"py",
+				"pygame_drawables"
+			],
+			[
+				"pygam",
+				"pygame_drawables"
+			],
+			[
+				"upd",
+				"update_obj"
+			],
+			[
+				"con",
+				"containers"
+			],
+			[
+				"pygame",
+				"pygame_updatables"
+			],
+			[
+				"pyga",
+				"pygame_updatables"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"Scr",
+				"SCREEN_WIDTH"
+			],
+			[
+				"lett",
+				"letters_dict"
+			],
+			[
+				"sor",
+				"sorted_dict"
+			],
+			[
+				"let",
+				"letter_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "go.mod",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"",
+					null,
+					"AQAAAB4AAAAAAAAAMAAAAAAAAAAKAAAAcG9rZWRleGNsaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 11,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"right_delete",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAABAAAALgAAAAAAAAAAAAAAAAAAAAABAAAALw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert to s",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add..."
+			],
+			[
+				"git: dif",
+				"Git: Diff Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/flame/boot.dev/pokedexcli"
+	],
+	"file_history":
+	[
+		"/home/flame/.neofetch-logo",
+		"/home/flame/git/_projects/ascii-colorizer-assist/testing/flame-ascii_output",
+		"/home/flame/git/_projects/ascii-colorizer-assist/testing/flame-ascii_mask",
+		"/home/flame/.config/fastfetch/config.jsonc",
+		"/home/flame/git/_projects/ascii-colorizer-assist/ascii_colorizer_lib.py",
+		"/home/flame/git/_projects/ascii-colorizer-assist/main.py",
+		"/home/flame/.neofetch-logo-bk",
+		"/home/flame/.bashrc",
+		"/home/flame/boot.dev/ai-agent-python/functions/run_python_file.py",
+		"/home/flame/boot.dev/ai-agent-python/functions/write_file.py",
+		"/home/flame/boot.dev/ai-agent-python/functions/get_file_content.py",
+		"/home/flame/boot.dev/ai-agent-python/functions/get_files_info.py",
+		"/home/flame/boot.dev/ai-agent-python/call_function.py",
+		"/home/flame/boot.dev/ai-agent-python/config.py",
+		"/home/flame/boot.dev/ai-agent-python/calculator/github.md",
+		"/home/flame/boot.dev/ai-agent-python/README.md",
+		"/home/flame/boot.dev/ai-agent-python/calculator/pkg/calculator.py",
+		"/home/flame/boot.dev/ai-agent-python/main.py",
+		"/home/flame/boot.dev/ai-agent-python/calculator/pkg/morelorem.txt",
+		"/home/flame/boot.dev/ai-agent-python/functions/config.py",
+		"/home/flame/boot.dev/ai-agent-python/functions/call_function.py",
+		"/home/flame/boot.dev/ai-agent-python/calculator/lorem.txt",
+		"/home/flame/boot.dev/ai-agent-python/.gitignore",
+		"/home/flame/boot.dev/ai-agent-python/calculator/main.py",
+		"/home/flame/boot.dev/ai-agent-python/tests.py",
+		"/home/flame/boot.dev/ai-agent-python/calculator/tests.py",
+		"/home/flame/boot.dev/ai-agent-python/calculator/pkg/render.py",
+		"/home/flame/boot.dev/ai-agent-python/functions/lorem.txt",
+		"/home/flame/git/_projects/ascii-colorizer-assist/readme.md",
+		"/home/flame/git/_projects/ascii-colorizer-assist/todo.md",
+		"/home/flame/git/_projects/ascii-colorizer-assist/_mask",
+		"/home/flame/boot.dev/maze/main.py",
+		"/home/flame/boot.dev/maze/cell.py",
+		"/home/flame/git/_projects/ascii-colorizer-assist/testcases.py",
+		"/home/flame/git/_projects/ascii-colorizer-assist/.gitignore",
+		"/home/flame/git/_projects/ascii-colorizer-assist/testing/flame",
+		"/home/flame/boot.dev/maze/graphics.py",
+		"/home/flame/git/_projects/ascii-colorizer-assist/test.sh",
+		"/home/flame/boot.dev/bootdev-static-site/src/test_inline_markdown.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/test_markdown_to_html.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/htmlnode.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/inline_markdown.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/markdown_to_html.py",
+		"/home/flame/boot.dev/bootdev-static-site/main.sh",
+		"/home/flame/boot.dev/bootdev-static-site/docs/index.html",
+		"/home/flame/boot.dev/bootdev-static-site/src/main.py",
+		"/home/flame/boot.dev/bootdev-static-site/public/index.html",
+		"/home/flame/boot.dev/bootdev-static-site/.gitignore",
+		"/home/flame/boot.dev/bootdev-static-site/src/blocktype.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/textnode.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/test_htmlnode.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/test_textnode.py",
+		"/home/flame/boot.dev/bootdev-static-site/src/test_blocktype.py",
+		"/home/flame/boot.dev/bootdev-static-site/test.sh",
+		"/home/flame/boot.dev/asteroids/main.py",
+		"/home/flame/boot.dev/asteroids/asteroidfield.py",
+		"/home/flame/boot.dev/asteroids/asteroid.py",
+		"/home/flame/boot.dev/asteroids/constants.py",
+		"/home/flame/boot.dev/asteroids/shot.py",
+		"/home/flame/boot.dev/asteroids/player.py",
+		"/home/flame/boot.dev/asteroids/circleshape.py",
+		"/home/flame/boot.dev/asteroids/.gitignore",
+		"/home/flame/boot.dev/asteroids/activate",
+		"/home/flame/boot.dev/asteroids/activate.sh",
+		"/home/flame/.config/sublime-text/Packages/User/sftp_servers/resonite_yiffinside.json",
+		"/home/flame/boot.dev/bookbot/stats.py",
+		"/home/flame/boot.dev/bookbot/.gitignore",
+		"/home/flame/boot.dev/bookbot/main.py",
+		"/home/flame/boot.dev/bookbot/README.md",
+		"/home/flame/boot.dev/bookbot/books/mobydick.txt",
+		"/home/flame/boot.dev/bookbot/books/prideandprejudice.txt",
+		"/home/flame/boot.dev/bookbot/books/frankenstein.txt",
+		"/home/flame/python/_tinker/callme.py",
+		"/home/flame/python/_tinker/testing.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "go.mod",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/DTD.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 132.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "pokedexcli.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
