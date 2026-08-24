@@ -10,13 +10,15 @@ import (
 type cliCommand struct {
 	name 		string
 	description	string
-	callback	func() error
+	callback	func(*config) error
 }
 
-var commandMap map[string]cliCommand
+type config struct {
+	commands 	map[string]cliCommand
+}
 
-func initCliCommands() {
-	commandMap = map[string]cliCommand{
+func initCliCommands() map[string]cliCommand {
+	return map[string]cliCommand{
 		"exit": {
 			name:		"exit",
 			description:"Exit the Pokedex",
@@ -30,10 +32,10 @@ func initCliCommands() {
 	}
 }
 
-func startRepl() {
+func startRepl(cfg *config) {
 	scanner := bufio.NewScanner(os.Stdin)
 
-	initCliCommands()
+	//initCliCommands()
 
 	for true {
 		fmt.Print("Pokedex > ")
@@ -45,11 +47,11 @@ func startRepl() {
 		}
 
 		commandName := cleanedInput[0]
-		command, found := commandMap[commandName]
+		command, found := cfg.commands[commandName]
 		if !found {
 			fmt.Println("Unknown command")
 		} else {
-			command.callback()
+			command.callback(cfg)
 		}
 	}
 }

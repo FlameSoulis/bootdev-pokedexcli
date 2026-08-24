@@ -1,6 +1,8 @@
 package main
 
 func main() {
-	startRepl()
+	var cfg config
+	cfg.commands = initCliCommands()
+	startRepl(&cfg)
 }
 
