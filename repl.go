@@ -15,6 +15,8 @@ type cliCommand struct {
 
 type config struct {
 	commands 	map[string]cliCommand
+	nextURL		string
+	prevURL		string
 }
 
 func initCliCommands() map[string]cliCommand {
@@ -28,6 +30,16 @@ func initCliCommands() map[string]cliCommand {
 			name: 		"help",
 			description:"Displays a help message",
 			callback: commandHelp,
+		},
+		"map": {
+			name: 		"map",
+			description:"Display list of maps",
+			callback:	commandMap,
+		},
+		"mapb": {
+			name: 		"mapb",
+			description:"Display previous list of maps",
+			callback:	commandMapb,
 		},
 	}
 }
